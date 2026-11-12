@@ -58,7 +58,7 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 4. **Los fracasos se documentan.** Aprendemos de ellos para la próxima vez.
 5. **Nada de monólogos explicando el plan al héroe.** Joker, esto va especialmente por ti.
 
-## Estado actual
+## Estado actual - desde remoto
 
 📡 **Misión activa:** Operación Banco Mundial
 🔬 **En desarrollo:** Satélite Congelador
