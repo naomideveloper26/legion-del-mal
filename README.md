@@ -50,7 +50,7 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 - **Venom** — Fuerza bruta y operaciones de intimidación
 - **Green Goblin** — Tecnología avanzada y tácticas de terror
 
-## Reglas de la Legión !!!
+## Reglas de la Legión 
 
 1. **Todo plan debe tener un plan de escape.** Sin excepciones.
 2. **Nada se ejecuta sin aprobación del Consejo.** Todos los planes pasan por revisión antes de llegar a `main`.
