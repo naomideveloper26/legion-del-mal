@@ -1,0 +1,66 @@
+# =============================================
+# FICHA DE VILLANO - LEGIÓN DEL MAL
+# =============================================
+
+nombre: "Harley Quinn"
+designacion: "Harley Quinn - La Arlequina del Caos"
+universo: DC
+rango: "Especialista en combate y relaciones (muy) interpersonales"
+estado: activo  # (con tendencia a cambiar de bando según el día)
+
+perfil:
+  identidad_publica: "Dra. Harleen Quinzel, psiquiatra con licencia (técnicamente suspendida) y exempleada de Arkham Asylum."
+  motivacion: "Divertirse, demostrar que vale por sí misma y, depende de la semana, recuperar al Joker o vengarse de él."
+  frase_celebre: "¡Hola, cariño! ¿Me extrañaste?"
+
+habilidades:
+  - Gimnasta y acróbata de nivel olímpico
+  - Combate cuerpo a cuerpo con estilo impredecible
+  - Maestría con el mazo gigante (y con el bate de béisbol, cuando el mazo está en reparación)
+  - Inmunidad a toxinas gracias a un suero de Poison Ivy
+  - Doctorado en psiquiatría, sabe exactamente qué decir para desestabilizar a cualquiera
+  - Agilidad y resistencia superiores a las de un humano normal
+  - Encanto natural que desarma a guardias, policías y, a veces, a héroes
+
+debilidades:
+  - Su relación con el Joker la vuelve impredecible y fácil de manipular
+  - Actúa por impulso y abandona el plan si algo le parece más divertido
+  - Tiene un corazón demasiado blando para ser villana del todo
+  - Lealtades cambiantes, la Legión nunca está segura de que siga de su lado
+  - No resiste la tentación de adoptar a cualquier hiena, perro o animal callejero
+
+recursos:
+  - Dos hienas mascotas, Bud y Lou (entrenadas, más o menos)
+  - Mazo gigante con resorte, pistola de confeti y bate personalizado
+  - Apartamento-guarida en Coney Island lleno de cosas robadas con brillos
+  - Contactos en todo el bajo mundo de Gotham y en el Escuadrón Suicida
+  - Su amistad con Poison Ivy, que la saca de casi cualquier apuro
+
+rol_en_la_legion: |
+  Harley Quinn es la fuerza de choque y la carta impredecible
+  de la Legión. Se encarga de infiltraciones, distracciones
+  ruidosas y de todo lo que requiera repartir mazazos con una
+  sonrisa. También es, extrañamente, la única que logra
+  controlar al Joker cuando se sale de control (aunque a veces
+  ella es la que se sale de control primero). Se unió a la
+  Legión porque Lex Luthor le prometió un puesto propio y no
+  como "la novia de alguien", algo que nadie le había ofrecido.
+
+rivalidad_principal: Batman  # (aunque últimamente dice que su verdadera rival es "la vida")
+guarida_asignada: "Parque de Diversiones Abandonado de Gotham (ala este, lejos del Joker)"
+misiones_completadas: 14
+misiones_fallidas: 5
+
+notas_confidenciales: |
+  La relación entre Harley y el Joker es el mayor riesgo
+  operativo de la Legión. Cuando están juntos, son
+  imparables. Cuando pelean, destruyen todo a su alrededor,
+  incluidas dos guaridas de la Legión hasta la fecha. Lex
+  Luthor exigió que tengan alas separadas en la guarida.
+  Brainiac le asigna un 63 % de probabilidad de desertar en
+  cualquier misión y no ha logrado bajar esa cifra. Ella le
+  dio un abrazo para "subirle el ánimo" y él tuvo que
+  reiniciarse. Magneto, curiosamente, la tolera mejor que a
+  cualquier otro miembro. Nota: sospechamos que tiene una
+  copia de la llave de la bóveda de la Legión. Nadie se ha
+  atrevido a preguntarle.
