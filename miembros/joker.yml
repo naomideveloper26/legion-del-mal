@@ -1,0 +1,65 @@
+# =============================================
+# FICHA DE VILLANO - LEGIÓN DEL MAL
+# =============================================
+
+nombre: "Joker"
+designacion: "Joker - El Príncipe Payaso del Crimen"
+universo: DC
+rango: "Director de caos y operaciones psicológicas"
+estado: activo  # (aunque nadie sabe dónde está en este momento)
+
+perfil:
+  identidad_publica: "Desconocida. Ha contado al menos once orígenes distintos y todos se contradicen. Él prefiere que sea de opción múltiple."
+  motivacion: "Demostrar que cualquier persona está a un mal día de volverse como él. Y divertirse mucho mientras lo demuestra."
+  frase_celebre: "¿Por qué tan serio?"
+
+habilidades:
+  - Genio criminal impredecible (ningún algoritmo ha logrado anticipar su siguiente movimiento)
+  - Experto en química y toxinas, creador del "Veneno de la Risa"
+  - Manipulación psicológica de nivel experto (ha hecho dudar hasta a Batman)
+  - Inmunidad a la mayoría de sus propias toxinas
+  - Tolerancia al dolor anormalmente alta
+  - Ingeniería de trampas mortales con temática de circo, juguetes y bromas
+  - Capacidad para reclutar secuaces en cualquier ciudad en menos de 24 horas
+
+debilidades:
+  - Obsesión enfermiza con Batman (abandona cualquier misión si aparece el murciélago)
+  - No sigue planes ajenos. Ni los propios, a veces
+  - Físicamente es un humano normal, sin superpoderes
+  - Su ego le impide resistirse a dejar una "firma" en cada crimen
+  - Se aburre con facilidad, y un Joker aburrido es un riesgo para la Legión
+
+recursos:
+  - Red de guaridas abandonadas en Gotham (parques de diversiones, fábricas de juguetes, circos)
+  - Ejército rotativo de secuaces con máscaras de payaso
+  - Arsenal de gadgets "de broma": flores que rocían ácido, bombas de crema, cartas filosas
+  - Reservas de Veneno de la Risa suficientes para tres ciudades
+  - Contactos en Arkham Asylum (entra y sale cuando quiere)
+
+rol_en_la_legion: |
+  Joker es el agente del caos de la Legión. Cuando un plan
+  necesita una distracción, pánico masivo o que los héroes
+  pierdan la cabeza, se le llama a él. Nadie como Joker sabe
+  romper la moral de una ciudad o desestabilizar a un héroe
+  desde adentro. Aceptó unirse a la Legión no por dinero ni
+  por poder, sino porque, según sus palabras, "una reunión
+  con tanta gente seria era una oportunidad de comedia que
+  no podía desperdiciar."
+
+rivalidad_principal: Batman
+guarida_asignada: "Parque de Diversiones Abandonado de Gotham"
+misiones_completadas: 9
+misiones_fallidas: 11  # (él insiste en que las fallidas "fueron chistes que nadie entendió")
+
+notas_confidenciales: |
+  Joker es el miembro más peligroso de la Legión, también
+  para la propia Legión. Ha saboteado dos misiones solo
+  porque "el final era más gracioso así". Lex Luthor lo
+  mantiene en el equipo porque prefiere tenerlo dentro que
+  como enemigo. Brainiac ha intentado modelar su
+  comportamiento 4,312 veces sin éxito y lo considera "un
+  error estadístico con maquillaje". Joker, en respuesta, le
+  pintó una sonrisa a la nave nodriza. Magneto se niega a
+  estar en la misma sala que él sin un campo magnético
+  activado. Se recomienda NO dejarlo solo con el sistema de
+  ventilación de ninguna guarida.
