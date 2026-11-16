@@ -71,7 +71,7 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 
 La Liga de la Justicia y los Vengadores han formado una alianza. Nuestros expedientes de inteligencia sobre cada uno están en la carpeta `/inteligencia`.
 
-**No subestimar a:** Superman, Batman, Wonder Woman, Iron Man, Spider-Man, Thor.
+**No subestimar a:** Superman, Batman, Wonder Woman, Iron Man, Spider-Man, Thor, Naomi.
 
 ## Banderas de estado:
 
