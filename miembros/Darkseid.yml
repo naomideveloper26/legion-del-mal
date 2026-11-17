@@ -1,2 +1,100 @@
-Darkseid 
-villano
+# ==========================================
+#  Legión del Mal - Ficha de miembro
+# ==========================================
+
+nombre: Darkseid
+nombre_real: Uxas
+alias:
+  - El Señor de Apokolips
+  - El Dios Oscuro
+  - El Destructor de Mundos
+
+universo: DC Comics
+creador: Jack Kirby
+primera_aparicion:
+  comic: "Superman's Pal Jimmy Olsen #134"
+  anio: 1970
+
+especie: Nuevo Dios
+planeta_origen: Apokolips
+afiliacion:
+  - Legión del Mal
+  - Nuevos Dioses de Apokolips
+
+rango: Líder supremo
+estado: activo
+nivel_amenaza: cósmico   # bajo | medio | alto | cósmico
+
+descripcion: >
+  Tirano absoluto del planeta Apokolips, un mundo de fuego y fosas.
+  Gobierna con puño de hierro sobre millones de esclavos y ejércitos
+  de Parademonios. Su obsesión es encontrar la Ecuación Anti-Vida,
+  que le permitiría dominar la voluntad de todos los seres vivos.
+
+objetivo_principal: Obtener la Ecuación Anti-Vida
+motivacion: Eliminar el libre albedrío del universo y gobernarlo todo
+
+atributos:
+  fuerza: 100
+  resistencia: 100
+  inteligencia: 95
+  velocidad: 70
+  combate: 90
+  liderazgo: 100
+
+poderes:
+  - nombre: Efecto Omega
+    descripcion: Rayos que salen de sus ojos y persiguen al objetivo.
+                 Pueden desintegrarlo o enviarlo a otro lugar o tiempo.
+  - nombre: Fuerza sobrehumana
+    descripcion: Capaz de enfrentarse a Superman cuerpo a cuerpo.
+  - nombre: Invulnerabilidad
+    descripcion: Resiste daños que destruirían planetas enteros.
+  - nombre: Inmortalidad
+    descripcion: Como Nuevo Dios, no envejece de forma normal.
+  - nombre: Telepatía y teletransporte
+    descripcion: Puede leer mentes y moverse por el universo
+                 usando los Tubos Boom.
+
+debilidades:
+  - Su arrogancia lo lleva a subestimar a sus enemigos
+  - El Efecto Omega puede ser desviado o redirigido contra él
+  - Depende de sus lugartenientes, que suelen traicionarse entre ellos
+
+familia:
+  madre: Heggra
+  hermano: Drax (fallecido)
+  tio: Steppenwolf
+  hijos:
+    - Orión
+    - Kalibak
+    - Grayven
+
+lugartenientes:
+  - nombre: Desaad
+    rol: Torturador y consejero
+  - nombre: Abuela Bondad
+    rol: Entrenadora de las Furias Femeninas
+  - nombre: Steppenwolf
+    rol: General de los ejércitos
+  - nombre: Kalibak
+    rol: Guerrero de élite
+
+ejercito:
+  - Parademonios
+  - Furias Femeninas
+
+enemigos:
+  - Superman
+  - Liga de la Justicia
+  - Orión
+  - Mister Miracle
+  - Alto Padre
+
+base_de_operaciones:
+  nombre: Fortaleza de Darkseid
+  ubicacion: Apokolips
+
+frase_celebre: "Soy el destino."
+
+fecha_ingreso: 2026-11-17
