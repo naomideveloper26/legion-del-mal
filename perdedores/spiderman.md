@@ -8,3 +8,10 @@ Spiderman es un superheroe ficticio creado por el escritor Stan Lee y el dibujan
 - Green Goblin
 - Duende Verde
 - Venom
+
+## Conocidos
+
+- Ned Leeds
+- Tia May
+- Gwen Stacy
+- Mary Jane
