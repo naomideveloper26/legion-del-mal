@@ -1,4 +1,4 @@
-# Informacion de4 Flash
+# Informacion de Flash
 
 ## Enemigos conocidos
 
