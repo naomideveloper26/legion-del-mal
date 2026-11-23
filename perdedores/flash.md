@@ -18,3 +18,11 @@
 - Vulnerabilidad humana sin velocidad: Si es sorprendido, inmovilizado o no reacciona a tiempo, su cuerpo sigue siendo el de un humano.
 
 - Ondas sonoras y gravedad: Ciertos campos gravitacionales o frecuencias sonoras pueden alterar su vibración o limitar su desplazamiento.
+
+## Conocidos
+
+- Iris West
+- Wally West 
+- Jay Garrick
+- Bart Allen
+- Linda Park
